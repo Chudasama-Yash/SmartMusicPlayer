@@ -9,4 +9,7 @@ SmartMusicPlayer is android based music player.
 <img src="allSongs.jpg" width=200 height=300></img>
 <img src="playlist.jpg" width=200 height=300></img>
 <img src="moods.jpg" width=200 height=300></img>
+<img src="player.jpg" width=200 height=300></img>
+<img src="NavigationView.jpg" width=200 height=300></img>
+
 
